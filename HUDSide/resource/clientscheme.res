@@ -2355,6 +2355,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+        “xHairSpread”
+{
+“1″
+{
+“name” “Crosshairs”
+“tall” “28″
+“weight” “0″
+“antialias” “1″
+}
+}
 		
 		//
 		//////////////////// ECON FONTS //////////////////////////////
@@ -2474,7 +2484,97 @@ Scheme
 			   "tall"      "4"
 			   "antialias" "1"
 			   }
-		}	   		
+		}
+		"Crosshairs34"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"34"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		"Crosshairs28"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"28"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}				
+		"Crosshairs24"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"24"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Crosshairs20"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"20"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Crosshairs17"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"17"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}				
+        "Crosshairs15"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"15"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Crosshairs12"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"12"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}				
+        "Crosshairs10"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"10"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+        "Crosshairs5"
+		{
+			"1"
+			{
+				"name"		"Crosshairs"
+				"tall"		"5"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}						
 
 	}
 
@@ -4386,6 +4486,10 @@ Scheme
 		{
 		    "font" "resource/fonts/inglobal"
 			"name" "inglobal"
-		}		
+		}
+       "8" // Fog's xHairs
+		{
+			"font" "resource/fonts/crosshairs.ttf"
+			"name" "Crosshairs		
 	}
 }

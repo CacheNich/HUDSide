@@ -1406,4 +1406,888 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
+///Crosshairs///	
+	                    4-WayCircle-Tube
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-25"
+		"wide"			"51"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"xHairCircle"
+		"labelText"		"1"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+	                    4-WayCircle-Line
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"xHairCircle"
+		"labelText"		"2"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+	                    Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs20"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-27"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair20"
+		"labelText"		"3"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Dotted-4-WayCircle-Line
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"4"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Square
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs15"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-27"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair15"
+		"labelText"		"5"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                KonrWings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"6"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Cross-With-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"7"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Circle-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-24"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"8"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Circle
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-24"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"9"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+		                Scatter-Pellets
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-24"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"0"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+			            Target-Circle
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"-"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Target-CircleDot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"="
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+			            Brackets
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"["
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+				        Brackets-with-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-25"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"]"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+				        Parted-Circle-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs15"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"\"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Thick-Open-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs15"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair15"
+		"labelText"		","
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Thick-Open-Cross-with-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs15"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair15"
+		"labelText"		"."
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Parted-Circle-with-Tubes
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"56"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"/"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Small-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs20"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair20"
+		"labelText"		"a"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs20"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-27"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair20"
+		"labelText"		"b"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Cross-with-Wings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"c"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Cross-with-Wings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"d"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Small-Open-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"49"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"e"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Cross-with-Thin-Wings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"f"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Thin-Wings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"g"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Thin-Open-Cross-With-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs17"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-15"
+		"ypos"			"c-28"
+		"wide"			"50"
+		"tall"			"57"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair17"
+		"labelText"		"h"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Thin-Open-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs17"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-15"
+		"ypos"			"c-28"
+		"wide"			"50"
+		"tall"			"56"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair17"
+		"labelText"		"i"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+				        Thick-Square-Hollow
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs24"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-26"
+		"wide"			"49"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair24"
+		"labelText"		"j"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+				        Thin-Square-Hollow
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs24"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-26"
+		"wide"			"49"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair24"
+		"labelText"		"k"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Thin-Open-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-24"
+		"ypos"			"c-25"
+		"wide"			"48"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"m"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Parted-Circle-with-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-26"
+		"wide"			"52"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"n"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Pilot-Crosshair
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs24"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-28"
+		"wide"			"52"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair24"
+		"labelText"		"p"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Angry-Crosshair
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"q"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Lined-Circle
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-25"
+		"wide"			"51"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"r"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Lined-Circle-with-Dot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-25"
+		"wide"			"51"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"s"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+			            Open-Cross-Circle
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-24"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"t"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+				        Fancy-Dot-with-Wings
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-25"
+		"ypos"			"c-24"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"u"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+					    Thin-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-27"
+		"ypos"			"c-26"
+		"wide"			"50"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"v"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Parted-Circle
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-26"
+		"wide"			"52"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"w"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Hollow-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-27"
+		"ypos"			"c-29"
+		"wide"			"53"
+		"tall"			"55"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"x"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Wide-Cross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs28"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-29"
+		"wide"			"52"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair28"
+		"labelText"		"y"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+						Honey-Comb
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"xHairCircle"
+		"font"			"Crosshairs34"
+		"visible"		"0"
+		"enabled"		"0"
+		"zpos"			"2"
+
+		"xpos"			"c-26"
+		"ypos"			"c-29"
+		"wide"			"52"
+		"tall"			"54"
+
+		//"font"		"xHairCircleOutline"
+		"font"			"Crosshair34"
+		"labelText"		"z"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
+	///End of Crosshairs///
 }
